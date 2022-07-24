@@ -1,5 +1,5 @@
 // Package surf ensembles other packages into a usable browser.
-package surf
+package  main
 
 import (
 	"github.com/headzoo/surf/agent"
